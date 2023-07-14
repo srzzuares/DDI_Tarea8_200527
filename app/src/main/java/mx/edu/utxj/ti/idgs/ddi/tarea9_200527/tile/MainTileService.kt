@@ -1,4 +1,4 @@
-package mx.edu.utxj.ddi.tarea8_200527.tile
+package mx.edu.utxj.ti.idgs.ddi.tarea9_200527.tile
 
 import android.content.Context
 import androidx.compose.runtime.Composable

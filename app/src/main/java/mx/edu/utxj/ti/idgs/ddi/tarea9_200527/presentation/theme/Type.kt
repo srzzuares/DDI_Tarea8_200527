@@ -1,4 +1,4 @@
-package mx.edu.utxj.ddi.tarea8_200527.presentation.theme
+package mx.edu.utxj.ti.idgs.ddi.tarea9_200527.presentation.theme
 
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily

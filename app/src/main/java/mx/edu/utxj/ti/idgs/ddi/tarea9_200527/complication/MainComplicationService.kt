@@ -1,4 +1,4 @@
-package mx.edu.utxj.ddi.tarea8_200527.complication
+package mx.edu.utxj.ti.idgs.ddi.tarea9_200527.complication
 
 import androidx.wear.watchface.complications.data.ComplicationData
 import androidx.wear.watchface.complications.data.ComplicationType
